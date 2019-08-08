@@ -1,0 +1,74 @@
+body {
+  background-color: #6ed3cf;
+  margin: auto;
+  width: 100%;
+  position: relative;
+}
+
+/* Contact me form */
+form {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  position: static;
+}
+
+/* text type and color for all rows */
+.my-container {
+  color: #101357;
+  font-size: 20px;
+  font-family: arial;
+}
+
+/* Section with icon hyperlinks */
+#home {
+  height: 100%;
+  width: 100%;
+  background-color: #6ed3cf;
+  color: #101357;
+  margin-bottom: 20px;
+}
+
+/* Contact me section */
+#contact {
+  height: 100%;
+  width: 100%;
+  background-color: #8bf0ba;
+  color: #6B7A8F;
+  margin-bottom: 20px;
+}
+
+/* About me section */
+#experience {
+  height: 100%;
+  width: 100%;
+  background-color: #ffdc6a;
+  color: #6B7A8F;
+  margin-bottom: 20px;
+}
+
+/* Projects section */
+#projects {
+  height: 100%;
+  width: 100%;
+  background-color: #fea49f;
+  color: #6B7A8F;
+  margin-bottom: 20px;
+}
+
+/* Headshot picture */
+.navbar-brand {
+  border-top: 5px solid #101357;
+  border-bottom: 5px solid #101357;
+}
+
+/* navbar font color */
+.navbar-nav li a {
+  color: #101357 !important;
+}
+
+/* navbar hover color */
+ul.navbar-nav a:hover {
+  color: #bf4aa8 !important;
+  cursor: pointer;
+}
